@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #FFEBA1
+}
+
+h1  {
+  font-size: 4rem;
+  margin: 80px auto 0 auto;
+  font-family: 'luckiest Guy', cursive;
+  color: #FD6F96;
+  line-height: 2rem;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #FD6F96;
+  font-weight: normal;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+h3 {
+  color: #11999E
+}
+
+p {
+  line-height: 2;
+}
+
+.my_picture {
+  border-radius: 100%;
+  padding-top: 50px;
+}
+
+.x-ray {
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chip {
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  background-color: #6F69AC;
+  position: relative;
+  padding-top: 50px;
+}
+
+.bottom-container {
+  background-color: #6F69AC;
+  padding-bottom: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 35px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+}
+
+.contact-me {
+  padding-bottom: 30px;
+}
+
+.footer-link {
+  line-height: 2;
+  color: yellow;
+}
