@@ -2,21 +2,21 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Josefin Sans', sans-serif;
-  background-color: #FFEBA1
+  background-color: #E6F8F9
 }
 
 h1  {
   font-size: 4rem;
   margin: 80px auto 0 auto;
   font-family: 'luckiest Guy', cursive;
-  color: #FD6F96;
+  color: #E86ED0;
   line-height: 2rem;
 }
 
 h2 {
   font-size: 2rem;
   font-family: 'Josefin Sans', sans-serif;
-  color: #FD6F96;
+  color: #E86ED0;
   font-weight: normal;
 }
 
@@ -62,19 +62,19 @@ p {
 
 .badge {
   border-radius: 100%;
-  width: 50%;
+  width: 20%;
   float: left;
   margin-right: 30px;
 }
 
 .top-container {
-  background-color: #6F69AC;
+  background-color: #B1E8ED;
   position: relative;
   padding-top: 50px;
 }
 
 .bottom-container {
-  background-color: #6F69AC;
+  background-color: #B1E8ED;
   padding-bottom: 50px;
 }
 
@@ -108,5 +108,5 @@ p {
 
 .footer-link {
   line-height: 2;
-  color: yellow;
+  color: #11999E;
 }
